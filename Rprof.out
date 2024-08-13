@@ -1,0 +1,6 @@
+sample.interval=20000
+"scan" "read.table" "read.csv" "best" "f" "doTryCatch" "tryCatchOne" "tryCatchList" "tryCatch" "withCallingHandlers" ".rs.callAs" "Rprof" 
+"scan" "read.table" "read.csv" "best" "f" "doTryCatch" "tryCatchOne" "tryCatchList" "tryCatch" "withCallingHandlers" ".rs.callAs" "Rprof" 
+"scan" "read.table" "read.csv" "best" "f" "doTryCatch" "tryCatchOne" "tryCatchList" "tryCatch" "withCallingHandlers" ".rs.callAs" "Rprof" 
+"scan" "read.table" "read.csv" "best" "f" "doTryCatch" "tryCatchOne" "tryCatchList" "tryCatch" "withCallingHandlers" ".rs.callAs" "Rprof" 
+"[.data.frame" "[" "subset.data.frame" "subset" "best" "f" "doTryCatch" "tryCatchOne" "tryCatchList" "tryCatch" "withCallingHandlers" ".rs.callAs" "Rprof" 
